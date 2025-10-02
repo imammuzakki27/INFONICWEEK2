@@ -1,5 +1,4 @@
 Nama    : Imam Muzakki
-Gugus   : Javascript
 NIM     : 25106050095
 
 Tugas :
